@@ -1,3 +1,9 @@
+export function Landing(){
+    return(
+        <h1>Landing (Public)</h1>
+    )
+}
+
 export function Home(){
     return(
         <h1>Home</h1>
